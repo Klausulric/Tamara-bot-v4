@@ -30,7 +30,7 @@
   "GENDER": "MALE",
   "nickNameBot": "{*}|🛀Tamara bot V4",
   "FACEBOOK": "https://www.facebook.com/anonymegod",
-  "prefix": "✓",
+  "prefix": "*",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
